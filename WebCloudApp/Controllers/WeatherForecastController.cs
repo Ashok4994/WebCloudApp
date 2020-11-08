@@ -20,7 +20,7 @@ namespace WebCloudApp.Controllers
 
         private static readonly string[] Days = new[]
         {
-            "Monday", "Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+            "Monday", "Tuesday","Wednesday","Thursday","Friday","Saturday"
         };
 
 
